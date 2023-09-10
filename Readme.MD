@@ -5,4 +5,3 @@ A estrutura de dados representada pela sintaxe Dictionary<TKey, TValue> é comum
 
 #### Desafios
 - Desafio 1: exibir média de notas atribuídas ao grupo musical.
-- Desafio 2: 
